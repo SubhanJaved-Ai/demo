@@ -1,0 +1,2 @@
+s = "subhan"
+print(s)
